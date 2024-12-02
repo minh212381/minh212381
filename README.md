@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Minh
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently studying in FPT University
